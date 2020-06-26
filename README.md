@@ -10,17 +10,17 @@ Paging Pipe Uygulaması ordinary pipe kullanarak iki prosesin haberleştirilmesi
 
 * Derleme
 
-```gcc -o myData myData.c```
+    ```gcc -o myData myData.c```
  
-```gcc -o myMore myMore.c ```
+    ```gcc -o myMore myMore.c ```
 
 * myData prosesini çalıştırma;
-
-``` ./myData inputFile.txt ```
+  
+    ``` ./myData inputFile.txt ```
 
 * myMore prosesini çalıştırma;
 
-``` ./myData inputFile.txt = myMore```
+    ``` ./myData inputFile.txt = myMore```
 
 
 ## Ekran Çıktıları
@@ -35,4 +35,4 @@ Paging Pipe Uygulaması ordinary pipe kullanarak iki prosesin haberleştirilmesi
 ![resim](https://user-images.githubusercontent.com/48556212/85899791-534c1b80-b807-11ea-987c-a64ea7a58475.png)
 ## Kullanılan Teknolojiler
 
-* C
+C
